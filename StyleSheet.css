@@ -1,0 +1,31 @@
+﻿h1 {
+    color: green;
+}
+
+hr {
+    height: 5px;
+    border: none;
+    background-color: green;
+}
+
+#BooksGridView {
+    margin-left:50px;
+}
+
+#AuthorDropDownList {
+    margin: 10px;
+}
+#BooksGridView, h1, p {
+    padding:10px;
+}
+
+#BooksGridView {
+    border: solid 5px green;
+}
+
+#ErrorLabel {
+    color: red;
+    
+}
+
+
